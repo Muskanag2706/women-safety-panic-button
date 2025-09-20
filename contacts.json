@@ -1,5 +1,4 @@
 [
-{ "name": "Parent", "method": "console", "target": "Parent" },
-{ "name": "FriendTG", "method": "telegram", "target": "<telegram_chat_id>" },
-{ "name": "EmergencySMS", "method": "twilio", "target": "+919xxxxxxxx" }
+    {"name": "Alice", "phone": "+917078021114"},
+    {"name": "Bob", "phone": "+918445649439"}
 ]
